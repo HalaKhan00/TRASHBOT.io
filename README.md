@@ -22,12 +22,12 @@ Teammates:
 2. Mahrukh Ali Khan (mahrukhalikhan1311@gmail.com)
 3. Arshiya Saleem (arshiyaasaleem@gmail.com)
 
-Supervisor:
-Dr Aamir Arsalan 
-Co-Supervisor:
-Dr Saria Safdar
+Supervisor: <br>
+Dr Aamir Arsalan <br>
+Co-Supervisor:<br>
+Dr Saria Safdar <br>
 
-Institution Name:
+Institution Name:<br>
 Fatima Jinnah Women University, Rawalpindi, Pakistan
 
 
