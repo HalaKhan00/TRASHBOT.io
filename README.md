@@ -3,10 +3,12 @@ We aim to develop and automated framework for waste segregation. In creation of 
 1. Dataset Collection
 2. Model Training
 3. Android Application
+
 What's still to be done?
 1. Integrating trained model in the application for classification of waste
 2. Integration of hardware and software
 3. Classification using raspberry pi and camera
+
 What's included in this github project?
 1. Trained waste classification model
 2. Android Aplication
