@@ -11,8 +11,8 @@ What's still to be done?
 
 What's included in this github project?
 1. Trained waste classification model
-2. Android Aplication
-3. Detailed Thesis
+2. Android Application
+3. Abstract
 
 We're still working on publishin Research paper of our work.
 
